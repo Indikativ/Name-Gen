@@ -1,7 +1,7 @@
 ![open issues](https://img.shields.io/github/issues/AspirinMaquzo/Name-Gen)
 
 # 🍣 NAME-GENERATOR  
-This Is a  Name Generator written in **[Python]("https://www.python.org/")** That whill generate a `3` or `5` Digit Name.
+This Is a  Name Generator written in **[python](https://www.python.org/)** That whill generate a `3` or `5` Digit Name.
 The idea behind this project was to use it as an Minecraft-Name Generator, but you can use it as what you want!
 
 # 🍙 HOW IT WORK'S
