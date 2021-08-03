@@ -16,3 +16,11 @@ In the **releases** tab on github you'll find a `NameGen.exe`. Put at in a locat
 GETTING YOUR NAME:
 
 You'll basically need to enter 3 random Digits. The programm will then randomly add vowels to your name.
+
+# ⚡️Contribution
+Feel free to contribut to this project.
+
+*you made a Pull request or opened an issue? Heres a cookie for you 🍪*
+
+
+💡 **If you have any Ideas or found a bug, just open an issue**
