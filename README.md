@@ -1,2 +1,2 @@
-# NAME-GENERATOR 🍣 
+# 🍣 NAME-GENERATOR  
 
