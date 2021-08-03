@@ -7,7 +7,7 @@ The idea behind this project was to use it as an Minecraft-Name Generator, but y
 # 🍙 HOW IT WORK'S
 INSTALLATION:
 
-In the **releases** tab on github you'll find a `NameGen.exe`. Put at in a location where you want to run it, open any kind of terminal, and write `.\NameGen.exe`. You can auto complete this by typing the letter `N` and then pressing `TAB` on your Keyboard.
+In the **[releases](https://github.com/AspirinMaquzo/Name-Gen/releases/tag/1.0)** tab on github you'll find a `NameGen.exe`. Put at in a location where you want to run it, open any kind of terminal, and write `.\NameGen.exe`. You can auto complete this by typing the letter `N` and then pressing `TAB` on your Keyboard.
 
 -> If you feel unsave running this programm you can check the source code.
 
