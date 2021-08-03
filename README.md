@@ -17,6 +17,16 @@ GETTING YOUR NAME:
 
 You'll basically need to enter 3 random Digits. The programm will then randomly add vowels to your name.
 
+# 🍘 Leaderboard
+1. quz
+2. wuz
+3. yuz
+4. auz
+5. xyz
+
+Here are letters that you can use that will generate fire names:
+*x,y,z,u,q,o,v,8,1*
+
 # ⚡️Contribution
 Feel free to contribut to this project.
 
