@@ -10,7 +10,7 @@ In the **releases** tab on github you'll find a `NameGen.exe`. Put at in a locat
 
 -> If you feel unsave running this programm you can check the source code.
 
-![]("https://gyazo.com/3029253502b6c264c402936fc0b16445")
+![]("https://i.gyazo.com/3029253502b6c264c402936fc0b16445.mp4")
 
 GETTING YOUR NAME:
 You'll basically need to enter 3 random Digits. The programm will then randomly add vowels to your name.
